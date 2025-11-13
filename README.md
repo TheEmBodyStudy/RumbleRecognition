@@ -3,7 +3,7 @@
 
 This git repository provides all required code to run *_Rumble Recognition_*, a novel gastrointestinal sound discrimintation interoception task. It is part of a larger Em-Body toolkit currently under development that will be released in due course.
 
-The [Rumble Recognition Wiki](https://github.com/Hannah-Savage/RumbleRecognition/wiki) page has all required information to install and run the task.
+The [Rumble Recognition Wiki](https://github.com/Hannah-Savage/RumbleRecognition/wiki) page has all required information to install and run the task. Data is available at doi:10.5281/zenodo.16900962
 
 If you use this task please cite the following publication\*: 
 
